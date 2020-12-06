@@ -1,0 +1,27 @@
+{
+  "name": "progressivebudget",
+  "version": "1.0.0",
+  "description": "online-offline-budget-tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirAshkan7091/hw-14-Progressive-Budget.git"
+  },
+  "author": "amir ashkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirAshkan7091/hw-14-Progressive-Budget/issues"
+  },
+  "homepage": "https://github.com/AmirAshkan7091/hw-14-Progressive-Budget#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.3",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  }
+}
